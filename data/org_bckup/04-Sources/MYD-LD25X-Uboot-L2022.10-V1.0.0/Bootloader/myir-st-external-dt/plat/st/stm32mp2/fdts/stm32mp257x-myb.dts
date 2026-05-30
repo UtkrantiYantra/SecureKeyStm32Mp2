@@ -1,0 +1,9 @@
+// STM32MP257x MYIR Board Device Tree Source
+// Phase 2: DTS modification for secure boot configuration
+
+/dts-v1/;
+
+/ {
+	// Device tree nodes will be added here
+	// This file configures hardware and peripheral bindings for STM32MP257x
+};
